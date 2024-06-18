@@ -1,0 +1,81 @@
+.top
+{
+    background-color: #151515;
+    color:white;
+   
+    font-size: larger;
+    font-family: "Playwrite IS", cursive;
+    padding: 0%;
+}
+body
+{
+    margin: 0;
+}
+
+.middle-container{
+    background-color: #A91D3A;
+    
+    color: white;
+    text-align: center;
+    font-size: medium;
+    font-family: "Playwrite IS", cursive;
+    padding:5px;
+}
+.bottom
+{
+    background-color:#C73659;
+    
+    text-align: center;
+    font-size: medium;
+    font-family: "Playwrite IS", cursive;
+    padding:5px;
+}
+img{
+    border-radius: 5cm;
+}
+img:hover{
+    opacity: 50%;
+}
+.bottom-container{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:#EEEEEE ;
+    color: #151515;
+    text-align: center;
+    font-size: medium;
+    font-family: "Playwrite IS", cursive;
+
+}
+.ty
+{
+    text-align: center;
+    position: relative;
+    left: 300px;;
+}
+.u{
+    
+    padding-left: 3cm;
+
+}
+.o{
+    position: absolute;
+    right: 2cm;
+    padding-right: 3cm;
+
+}
+.L{
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 2.25cm;
+    color: white;
+
+}
+.P{
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 7.25cm;
+
+}
